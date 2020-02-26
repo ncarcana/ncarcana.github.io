@@ -1,0 +1,12 @@
+body {
+	background-color:#ebb734;
+}
+header {
+	background-color: #ebd034;
+	font-family: "Oswald";
+}
+ul {
+	margin: 30 px auto;
+	text-align: center;
+	font-family: "Oswald";
+}
