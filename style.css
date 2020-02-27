@@ -14,13 +14,13 @@ h2{
 }
 h3{
 	font-family: "Oswald"
-	margin: center;
+	margin: right;
 	font-family: 'Oswald', sans-serif;
 	font-size: 18px
 }
 h4{
 	font-family: "Oswald"
-	margin: center;
+	margin: right;
 	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
 }
@@ -50,7 +50,7 @@ li{
 }
 .history {
 	background-color: 
-	text-align:left;
+	text-align:right;
 	font-family: 'Oswald', sans-serif;
 	position: relative;
 	top: 50px;
