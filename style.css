@@ -22,6 +22,14 @@ ul {
 	text-align: center;
 	font-family: "Oswald";
 }
+li{
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  width: 80px;
+  display: inline-block;
+  font-weight: 300;
+  text-transform: uppercase;
+}
 .history {
 	background-color: 
 	text-align:left;
