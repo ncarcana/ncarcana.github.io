@@ -49,9 +49,6 @@ li{
 	position: relative;
 }
 .history {
-	background-color: 
-	margin: right;
+	text-align: right;
 	font-family: 'Oswald', sans-serif;
-	position: relative;
-	top: 50px;
 }
