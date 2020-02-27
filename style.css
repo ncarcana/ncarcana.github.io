@@ -30,6 +30,10 @@ li{
   font-weight: 300;
   text-transform: uppercase;
 }
+.welcome{
+	text-align: center;
+	position: relative;
+}
 .history {
 	background-color: 
 	text-align:left;
