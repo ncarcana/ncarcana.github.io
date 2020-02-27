@@ -10,6 +10,7 @@ h1 {
 h2{
 	font-family: "Oswald"
 	margin: center;
+	font-family: 'Oswald', sans-serif;
 }
 header{
 	position: fixed;
