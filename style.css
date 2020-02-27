@@ -50,7 +50,7 @@ li{
 }
 .history {
 	background-color: 
-	text-align:right;
+	margin: right;
 	font-family: 'Oswald', sans-serif;
 	position: relative;
 	top: 50px;
