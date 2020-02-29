@@ -66,12 +66,15 @@ li{
 	text-align: right;
 
 }
-.history{
+.history p{
 	text-align:right;
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 350px;
 	grid-area: 4 / 4 / 6 / 6;
+}
+.history{
+	text-align:right;
 }
 .form{
 	grid-area: 7 / 4 / 9 / 6;
