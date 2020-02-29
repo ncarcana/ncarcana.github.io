@@ -1,6 +1,8 @@
 body {
   background: #2816b5
   background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  background: linear-gradient(-45deg, #35577D, #141E30);
+  font-family: 'Raleway', sans-serif;
   margin: 0;
   padding: 0;
   display:grid;
@@ -59,7 +61,7 @@ li{
 	text-align: center;
 }
 .history h2{
-	font-family: 'Helvetica', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color: #e01414;
 	text-align: right;
 
@@ -68,9 +70,9 @@ li{
 	text-align:right;
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	width: 300px;
+	width: 350;
 }
 .form h2{
-	font-family: 'Helvetica', sans-serif;
-	color: #e01414;
+	
+
 }
