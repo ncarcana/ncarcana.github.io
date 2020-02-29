@@ -53,7 +53,6 @@ li{
   color: #e01414;
 }
 .welcome h2{
-	font-family: 'Oswald', sans-serif;
 	color: white;
 	text-transform: capitalize;
 	font-family: 'Raleway', sans-serif;
@@ -61,9 +60,14 @@ li{
 .welcome{
 	text-align: center;
 }
+.history h2{
+	font-family: 'Raleway', sans-serif;
+	color: #e01414;
+
+}
 .history p{
 	text-align:right;
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	width: 350;
+	width: 350px;
 }
