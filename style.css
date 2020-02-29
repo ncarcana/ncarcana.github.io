@@ -68,14 +68,16 @@ li{
 }
 .history p{
 	text-align:right;
+	margin:right;
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 350px;
 }
 .history{
-	grid-area: 3 / 7 / 6 / 9;
+	grid-area: 2 / 7 / 5 / 9;
 	text-align:right;
 }
 .form{
-
+	grid-area: 4 / 1 / 9 / 5;
+	color: white;
 }
