@@ -71,8 +71,9 @@ li{
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 350px;
-	grid-area: 6 / 7 / 9 / 9;
+	grid-area: 4 / 4 / 6 / 6;
 }
 .form{
+	grid-area: 7 / 4 / 9 / 6;
 
 }
