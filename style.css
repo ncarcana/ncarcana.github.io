@@ -46,7 +46,8 @@ li{
   width: 80px;
   font-weight: 300;
   text-transform: uppercase;
-  color: #e01414;
+  border: 1px solid #e01414;
+  padding: 10px;
 }
 .welcome h2{
 	color: white;
@@ -66,8 +67,9 @@ li{
 
 }
 .img1{
-	grid-row-start: 1 ;
+	grid-row-start: 7;
   	grid-column-start: 1;
+	width: 100%;
 }
 .history p{
 	font-family: 'Oswald', sans-serif;
