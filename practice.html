@@ -24,7 +24,10 @@
 
 <script>
 function myFunction() {
-  alert("I am an alert box!");
+  var min= 1;
+  var max= 5;
+  var random = Math.random() * (+max - +min) + +min;
+  alert("Try sequence: " + random);
 }
 </script>
     <div class="alert">
