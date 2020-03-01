@@ -66,12 +66,17 @@ li{
 	color: #e01414;
 	text-align: center;
 }
+img{
+    border-radius: 50%;
+}
 .img1{
-	width: 1400px;
-	height: 700px;
+	width: 500px;
+	height: 400px;
+    border-radius: 8px;
+    margin: right;
 }
 .img2{
-    width: 100px;
+    width: 700px;
    height: 100px;
 }
 .history p{
@@ -94,6 +99,6 @@ button{
 }
 .history p{
     margin-top: 0;
-    margin-bottom: 35em;
+    margin-bottom: 12em;
     
 }
