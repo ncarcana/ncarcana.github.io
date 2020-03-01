@@ -60,22 +60,19 @@ li{
 .history h2{
 	font-family: 'Helvetica', sans-serif;
 	color: #e01414;
-	text-align: right;
+	text-align: center;
+	grid-column: 5 / span 4;
+  	grid-row: 2 / span 1;
 
 }
 .history p{
-	text-align:right;
-	margin:right;
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 350px;
-	left: 100px;
+	grid-column: 5 / span 4;
+        grid-row: 3 / span 4;
 }
 .history{
-	text-align:right;
-	left: 100px;
-	grid-column: 5 / span 4;
-  	grid-row: 4 / span 4;
 }
 .form{
 	color: white;
