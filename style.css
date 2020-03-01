@@ -6,7 +6,7 @@ body {
   margin: 0;
   padding: 0;
   display:grid;
-  grid-gap: 10px;
+  grid-template: 40% 50% 50px / 100px 50% 200px;
   max-width: 100px;
 }
 h1 {
@@ -28,20 +28,13 @@ h4{
 	font-size: 16px;
 	color: #e01414;
 }
-header{
-	position: fixed;
-  	width: 100%;
-  	z-index: 10;
-  	font-family: 'Oswald', sans-serif;
-
-}
 ul {
 	margin: 30 px auto;
-	text-align: center;
 	font-family: "Oswald";
 }
 nav{
 	grid-area: 1 / 1 / 2 / 2;
+        grid-row: 1 / 3;
 
 }
 li{
