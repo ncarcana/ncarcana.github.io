@@ -26,6 +26,7 @@ h4{
 	text-align: right;
 	font-family: 'Oswald', sans-serif;
 	font-size: 16px;
+	color: #e01414;
 }
 header{
 	position: fixed;
@@ -56,6 +57,7 @@ li{
 	color: white;
 	text-transform: uppercase;
 	font-family: 'Helvetica', sans-serif;
+	border: solid 3px white;
 }
 .welcome{
 	text-align: center;
@@ -72,11 +74,13 @@ li{
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 350px;
+	left: 100px;
 	grid-area: 2 / 7 / 5 / 9;
 }
 .history{
 	grid-area: 2 / 7 / 5 / 9;
 	text-align:right;
+	left: 100px;
 }
 .form{
 	grid-area: 4 / 1 / 9 / 5;
