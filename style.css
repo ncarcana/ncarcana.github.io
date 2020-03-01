@@ -65,6 +65,10 @@ li{
   	grid-row: 2 / span 1;
 
 }
+.img1{
+	grid-row-start: 4;
+  	grid-column-start: 7;
+}
 .history p{
 	font-family: 'Oswald', sans-serif;
 	color: white;
