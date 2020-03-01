@@ -56,8 +56,6 @@ li{
 .nav li{
 	border: 5px solid #e01414;
  	padding: 50px;
-  	height:50px;
-  	width: 50px;
 	position:relative;
 	margin: 0 auto;
 	z-index: 2;
@@ -70,6 +68,7 @@ li{
 }
 .welcome{
 	text-align: center;
+	grid-column-start: 5;
 }
 .history h2{
 	font-family: 'Helvetica', sans-serif;
