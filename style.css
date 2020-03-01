@@ -66,7 +66,7 @@ li{
 
 }
 .img1{
-	grid-row-start: 4;
+	grid-row-start: 3;
   	grid-column-start: 7;
 }
 .history p{
@@ -76,7 +76,7 @@ li{
 	height: 500px;
 	text-align:right;
 	margin:center;
-	grid-column: 7 / span 4;
+	grid-column: 8 / span 3;
         grid-row: 3 / span 4;
 }
 .history{
