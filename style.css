@@ -60,11 +60,13 @@ li{
 	font-family: 'Oswald', sans-serif;
 	border: solid 3px white;
 	width: 300px;
+    margin-top: 25;
 }
 .history h2{
 	font-family: 'Helvetica', sans-serif;
 	color: #e01414;
 	text-align: center;
+    margin-top: 10;
 }
 img{
     border-radius: 50%;
