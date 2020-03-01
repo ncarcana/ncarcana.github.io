@@ -68,7 +68,8 @@ li{
 .history p{
 	font-family: 'Oswald', sans-serif;
 	color: white;
-	width: 350px;
+	width: 700px;
+	text-align:center;
 	grid-column: 5 / span 4;
         grid-row: 3 / span 4;
 }
