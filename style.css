@@ -67,7 +67,7 @@ li{
 }
 .img1{
 	grid-row: 1 / span 9;
-  	grid-column-start: 7;
+  	grid-column-start: 1;
 }
 .history p{
 	font-family: 'Oswald', sans-serif;
