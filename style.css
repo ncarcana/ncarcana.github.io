@@ -3,12 +3,13 @@ body {
   background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
   background: linear-gradient(-45deg, #35577D, #141E30);
   font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
   display:grid;
   height: 500px;
-  width:400px;
+  width:500px;
   grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
   grid-gap: 200px;
-  
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
@@ -47,27 +48,43 @@ li{
   font-family: 'Oswald', sans-serif;
   font-size: 18px;
   width: 80px;
-  font-weight: 400;
+  font-weight: 500;
   text-transform: uppercase;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   padding: 20px 0px;
 
+}
+.nav li{
+	border: 5px solid #e01414;
+ 	padding: 50px;
+	position:relative;
+	margin: 0 auto;
+	z-index: 2;
 }
 .welcome h2{
 	color: white;
 	text-transform: uppercase;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	border: solid 3px white;
+}
+.welcome{
+	text-align: center;
 }
 .history h2{
 	font-family: 'Helvetica', sans-serif;
 	color: #e01414;
 	text-align: center;
-    grid-column:  / span 4;
+	grid-column: 7 / span 4;
+  	grid-row: 2 / span 1;
+
 }
 .img1{
+	grid-row-start: 7;
+  	grid-column-start: 1;
 	width: 100%;
-	height: 600px;
+	height: 700px;
+	background-image: url("yogahist.jpeg");
+ 	background-size: cover;
 }
 .history p{
 	font-family: 'Oswald', sans-serif;
@@ -75,10 +92,11 @@ li{
 	width: 700px;
 	height: 500px;
 	text-align:center;
+	grid-column: 8 / span 3;
+        grid-row: 3 / span 4;
 }
 .form h2{
 	text-align:left;
-}
 .form{
 	text-align:left;
 	color: white;
