@@ -61,7 +61,7 @@ li{
 	font-family: 'Helvetica', sans-serif;
 	color: #e01414;
 	text-align: center;
-	grid-column: 5 / span 4;
+	grid-column: 6 / span 4;
   	grid-row: 2 / span 1;
 
 }
@@ -69,8 +69,10 @@ li{
 	font-family: 'Oswald', sans-serif;
 	color: white;
 	width: 700px;
-	text-align:center;
-	grid-column: 5 / span 4;
+	height: 500px;
+	text-align:right;
+	margin:center;
+	grid-column: 6 / span 4;
         grid-row: 3 / span 4;
 }
 .history{
