@@ -8,7 +8,7 @@ body {
   display:grid;
   height: 500px;
   width:500px;
-  grid-template-columns: 20% 80%;
+  grid-template: repeat(4, 1fr 2fr) / repeat(4, 3fr 2fr);
   grid-gap: 10px;
 }
 h1 {
@@ -68,7 +68,6 @@ li{
 }
 .welcome{
 	text-align: center;
-	grid-column-start: 5;
 }
 .history h2{
 	font-family: 'Helvetica', sans-serif;
