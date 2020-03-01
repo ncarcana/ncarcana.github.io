@@ -66,7 +66,7 @@ li{
 
 }
 .img1{
-	grid-row: 1 / span 9;
+	grid-row-start: 1 ;
   	grid-column-start: 1;
 }
 .history p{
