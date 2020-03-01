@@ -68,6 +68,10 @@ li{
 	text-align: center;
     margin-top: 10;
 }
+#what{
+    margin-bottom: 45em;
+    
+}
 img{
     border-radius: 50%;
 }
@@ -103,8 +107,11 @@ button{
   height: 50px;
   width: 70px;
 }
+blockquote{
+  height: 1
+}
 .history p{
     margin-top: 0;
-    margin-bottom: 12em;
+    
     
 }
