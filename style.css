@@ -15,6 +15,8 @@ h1 {
 h2{
 	text-align: center;
 	font-family: 'Oswald', sans-serif;
+    color: #e01414;
+    
 }
 h3{
 	text-align: right;
@@ -110,7 +112,7 @@ img{
 button{
   height: 50px;
   width: 70px;
-  grid-area: 1 / 4
+  grid-area: 1 / 5
 }
 blockquote{
   height: 1
@@ -118,5 +120,10 @@ blockquote{
 .history p{
     margin-top: 0;
     
+    
+}
+#practice{
+    grid-area;
+    grid-area:1/ 3;
     
 }
