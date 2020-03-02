@@ -110,8 +110,8 @@ img{
     
 }
 button{
-  height: 50px;
-  width: 70px;
+  height: 100px;
+  width: 120px;
   grid-area: 1 / 5
 }
 blockquote{
